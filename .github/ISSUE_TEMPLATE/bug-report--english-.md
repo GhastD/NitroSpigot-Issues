@@ -8,9 +8,9 @@ assignees: ''
 ---
 
 **Information to complete**
-[checkbox:checked] I am running the latest version of NitroSpigot
-[checkbox:checked] I have bought a valid license of NitroSpigot
-[checkbox:checked] I have read previous issues and have made sure this is not a duplicate
+* [X] I am running the latest version of NitroSpigot
+* [X] I have bought a valid license of NitroSpigot
+* [X] I have read previous issues and have made sure this is not a duplicate
 
 Discord: {your discord here}
 
